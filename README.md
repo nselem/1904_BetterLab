@@ -46,7 +46,8 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
      <td><b> Sesión 2 </b> <br>
      Extracción de DNA y  conservación <br>
      Visualización del ADN genómico Tarde libre<br>
-           </td>
+           </td></tr>
+      <tr>
      <td><b> Sesión 3 </b> <br>
       Realizando PCR<br>
       Preparando Mix PCR<br> 
