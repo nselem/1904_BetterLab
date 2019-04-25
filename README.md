@@ -6,7 +6,7 @@
 ## Informacion General  
 Bienvenido a aprender sobre tu información genética. Esta será la página web del taller, donde encontrarás el temario y los protocolos del curso. Además trabajaremos en un [documento colaborativo](https://etherpad.net/p/190419_BetterLab) donde podemos anotar dudas de los participantes y compartir información todos al mismo tiempo. Los documentos colaborativos ayudan a llevar un registro del trabajo comunitario  y te permiten ser una herrammienta de consulta en el futuro. Algunas de nuestras son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras fueron pensadas de acuerdo a las necesidades específicas del taller.   
 
-En este curso aprenderás un poco de biología tanto experimental como computacional. Adquirirás también nociones de marcadores y filogenias.   
+En este curso aprenderás un poco de biología tanto experimental como computacional. Adquirirás también nociones de marcadores y filogenias. En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Resumen.pdf) puedes encontrar los protocolos y la información que utilizaremos taller. 
   
 ## Calendario   
   
