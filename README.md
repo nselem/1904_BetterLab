@@ -43,7 +43,36 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
       1.3 Conociendo el genoma mitocondrial.<br>
       1.4 Legislación de la genética humana.<br>
       </td>
+     <td><b> Sesión 2 </b> <br>
+     Extracción de DNA y  conservación <br>
+     Visualización del ADN genómico Tarde libre<br>
+           </td>
+     <td><b> Sesión 3 </b> <br>
+      Realizando PCR<br>
+      Preparando Mix PCR<br> 
+           </td>
+      <td><b> Sesión 4 </b> <br>
+      Amplificando la región mitocondrial <br>
+      </td>
 </tr>
+<td>      
+<td><b>Sesión 5</b><br> 
+    5.1 Visualización de fragmentos <br> 
+    5.2  Recepción de los datos de secuenciación <br> 
+      </td>
+<td><b>Sesión 6</b><br> 
+    6.1  Alineamientos y  filogénias <br> 
+    6.2  Interpretación de la secuenciación <br> 
+      </td>
+<tr>
+<td><b>Sesión 7</b><br> 
+      7.1 Encontrando la ancestría usando haplogrupos <br> 
+      </td>
+<td><b>Sesión 8</b><br> 
+      Software de antropología genómica. <br> 
+      Marcadores biomédicos y genética forense<br> 
+      </td>
+      </tr>
 </table>    
 ___  
   
