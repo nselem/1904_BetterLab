@@ -37,6 +37,12 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
 ## Temario detallado  
 <table> 
 <tr>
+      <td><b> Sesión 1 </b> <br>
+      1.1 Introducción a la Biología Molecular. <br>
+      1.2 Fundamentos del uso del ADN mitocondrial para identificación humana y ancestría.<br>
+      1.3 Conociendo el genoma mitocondrial.<br>
+      1.4 Legislación de la genética humana.<br>
+      </td>
 </tr>
 </table>    
 ___  
