@@ -14,6 +14,7 @@ En este adquirirás nociones de biología tanto experimental como computacional.
     <tr>
              <td>Sábado 27       </td> <td>           Domingo 28                 </td>
   </tr>  
+      <tr>
       <td> Sesión 1 (10:00-10:50) Introducción teórica a la Biología Molecular.   </td>  
       <td>  Sesión 3 (10:00-11:00) Introducción teórico-práctica a la reacción de PCR</td>
   </tr>
