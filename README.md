@@ -12,26 +12,24 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
   
 <table>
     <tr>
-        <td></td>        <td>Sábado 27       </td> <td>           Domingo 28                 </td>
+             <td>Sábado 27       </td> <td>           Domingo 28                 </td>
   </tr>  
-      <tr><td>10:00 a 10:30</td>
-      <td>  Introducción teórica a la Biología Molecular.   </td>  
-      <td>  Introducción teórico-práctica a la reacción de PCR</td>
+      <td> Sesión 1 (10:00-10:50) Introducción teórica a la Biología Molecular.   </td>  
+      <td>  Sesión 3 (10:00-11:00) Introducción teórico-práctica a la reacción de PCR</td>
   </tr>
-      <tr><td></td><td>Coffee Break</td><td>Coffee Break</td>    
-    <tr><td></td>
-      <td>
-        Sesión 5 (9:10 -12:10) Análisis de secuencias <a href="paginas/git/sesion3.md">Git </a> y <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">Markdown</a>  </td></tr>  
+      <tr><td>Coffee Break</td><td>Coffee Break</td>    </tr>
+    <tr>
+          <td>Sesión 2 (11:00-14:00) Extracción de DNA</td>
+          <td>Sesión 4 (11:20-14:00) Termociclado y electroforesis </td></tr>  
     <tr><td></td><td>Sábado 4</td><td>Domingo 5 </td></tr>
-    <tr><td></td>
-          <td>
-        Genómica y Bioinformática          </td>
-      <td>Sesión 6 (12:50-3:50) <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
+    <tr>
+          <td> Sesión 5 (10:00-11:45)Genómica y Bioinformática          </td>
+      <td>Sesión 7 (10:00-11:45) <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
     </tr>
-    <tr><td>
-    </td>
-          <td> Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
-        </td>    <td>Sesión 7 (4:00 -7:00 pm) Proyectos y exposición </td>
+    <tr><td>Coffee Break</td><td>Coffee Break</td>    </tr>
+    <tr>
+          <td> Sesión 6 (12:00-14:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
+        </td>    <td>Sesión 8 (12:00-14:00 pm) Proyectos y exposición </td>
     </tr>
 </table>  
 
