@@ -16,24 +16,23 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
   </tr>  
       <tr><td>10:00 a 10:30</td>
       <td>  Introducción teórica a la Biología Molecular.   </td>  
-      <td>  </td>
+      <td>  Introducción teórico-práctica a la reacción de PCR</td>
   </tr>
+      <tr><td></td><td>Coffee Break</td><td>Coffee Break</td>
+    
     <tr><td></td>
-          <td> Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
-        </td>
       <td>
         Sesión 5 (9:10 -12:10) Análisis de secuencias <a href="paginas/git/sesion3.md">Git </a> y <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">Markdown</a>  </td></tr>  
-    <tr><td>
-        Comida (12:00-12:45)</td><td> Comida (12:10-12:50)</td></tr>
+    <tr><td></td><td>Sábado 4</td><td>Domingo 5 </td></tr>
     <tr><td></td>
           <td>
-        Sesión 2  (12:45 - 03:45 pm) Algoritmos Biológicos          </td>
+        Genómica y Bioinformática          </td>
       <td>Sesión 6 (12:50-3:50) <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
     </tr>
-    <tr><td></td>
-          <td>
-        Sesión 3 (04:00 - 7:00 pm)   Bases de datos   </td>
-        <td>Sesión 7 (4:00 -7:00 pm) Proyectos y exposición </td>
+    <tr><td>
+    </td>
+          <td> Sesión 1 (9:00 - 12:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
+        </td>    <td>Sesión 7 (4:00 -7:00 pm) Proyectos y exposición </td>
     </tr>
 </table>  
 
