@@ -39,21 +39,23 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
 <tr>
       <td><b> Sesión 1 </b> <br>
       1.1 Introducción a la Biología Molecular. <br>
-      1.2 Fundamentos del uso del ADN mitocondrial para identificación humana y ancestría.<br>
+      1.2 Fundamentos del uso del ADN mitocondrial 
+      para identificación humana y ancestría.<br>
       1.3 Conociendo el genoma mitocondrial.<br>
       1.4 Legislación de la genética humana.<br>
       </td>
      <td><b> Sesión 2 </b> <br>
-     Extracción de DNA y  conservación <br>
-     Visualización del ADN genómico Tarde libre<br>
+     2.1 Extracción de DNA y  conservación <br>
+     2.2 Visualización del ADN genómico Tarde libre<br>
            </td></tr>
       <tr>
      <td><b> Sesión 3 </b> <br>
-      Realizando PCR<br>
-      Preparando Mix PCR<br> 
+      3.1 Realizando PCR<br>
+      3.2 Preparando Mix PCR<br> 
            </td>
       <td><b> Sesión 4 </b> <br>
-      Amplificando la región mitocondrial <br>
+      4.1 Amplificando la región mitocondrial <br>
+      4.2 Visualizando por electroforesis la región mitocondrial <br>
       </td>
 </tr>      
 <td><b>Sesión 5</b><br> 
@@ -69,8 +71,8 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
       7.1 Encontrando la ancestría usando haplogrupos <br> 
       </td>
 <td><b>Sesión 8</b><br> 
-      Software de antropología genómica. <br> 
-      Marcadores biomédicos y genética forense<br> 
+      8.1 Software de antropología genómica. <br> 
+      8.2 Marcadores biomédicos y genética forense<br> 
       </td>
       </tr>
 </table>    
