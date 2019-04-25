@@ -1,19 +1,18 @@
 # Descubriendo tu información genética  
 ![BetterLab Logo](images/BetterLab.png)   
 
-Bienvenido, Los documentos colaborativos ayudan a llevar un registro del trabajo comunitario  y te permiten ser una herrammienta de consulta en el futuro. Este será el [documento colaborativo](https://etherpad.net/p/190419_BetterLab)  de nuestro taller.  
+      
+    
+## Informacion General  
+Bienvenido a aprender sobre tu información genética. Esta será la página web del taller, donde encontrarás el temario y los protocolos del curso. Además trabajaremos en un [documento colaborativo](https://etherpad.net/p/190419_BetterLab) donde podemos anotar dudas de los participantes y compartir información todos al mismo tiempo. Los documentos colaborativos ayudan a llevar un registro del trabajo comunitario  y te permiten ser una herrammienta de consulta en el futuro. Algunas de nuestras son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras fueron pensadas de acuerdo a las necesidades específicas del taller.   
 
-# Biología computacional
-![UniversidadMorazan](imagenes/morazan.png)  
-
-En este curso aprenderás un poco de biología computacional, adquirirás nociones de las herramientas linux, git, RAST y microreact.   
-
+En este curso aprenderás un poco de biología tanto experimental como computacional. Adquirirás también nociones de marcadores y filogenias.   
   
 ## Calendario   
   
 <table>
     <tr>
-        <td>Viernes 22       </td> <td>           Sábado 23                 </td>
+        <td>Sábado 27       </td> <td>           Domingo 28                 </td>
   </tr>  
     <tr><td>                                               </td>  
       <td>  Sesión 4 Redes de información (7:00 - 9:00 am)</td>
@@ -33,72 +32,11 @@ En este curso aprenderás un poco de biología computacional, adquirirás nocion
         <td>Sesión 7 (4:00 -7:00 pm) Proyectos y exposición </td>
     </tr>
 </table>  
-      
-    
-## Informacion General  
-Aqui puedes encontrar un [documento colaborativo](https://etherpad.net/p/compbio  ) donde compartiremos información relevante, links, y respuestas a preguntas que surjan durante el taller. Dos de nuestras lecciones linux y git son parte del contenido habitual de [software carpentry](https://software-carpentry.org/) una organización dedicada a enseñar habilidades de cómuto para hacer más en menos tiempo y con menos sufrimiento, usaremos estas dos lecciones con su permiso. Las otras dos lecciones fueron pensadas de acuerdo a las necesidades específicas de nuestro centro de trabajo.   
 
 
 ## Temario detallado  
 <table> 
 <tr>
-  <td> <b> <a href="paginas/linux/introduccion.md">Sesión 1</a> Introducción y Linux bash</b> <br>
-1.1 Introducción a la biología y genética molecular. <br>
-Aplicaciones de biología computacional. <br>
-  1.2 Biohack y la filosofía open software. <br>
-Diseño en TinkerCad  <br>
-1.3.1 Linux/Unix, Principios básicos del Shell  <br>
-1.3.2 Comandos para el manejo de archivos y directorios   <br>
-1.3.3 Pipes y filtros   <br>
-</td>
-  <td> <b> <a href="paginas/sesion2/algoritmos.md" >Sesión 2:</a> Algoritmos Biológicos </b>  <br>
-2.1 Ensamblado  <br>  
-2.2 Alineamiento  <br>
-2.3 BLAST   (16s) <br>
-2.4 Algoritmos de Bash Loops <br>
-</td>
-</tr>
-  <tr> 
-    <td><b> <a href="paginas/sesion3/basesDatos.md">Sesión 3</a>  Bases de datos, mapas y uso de paquetes de análisis</b> <br>
-3.1 NCBI  <br>
-3.2 MIBiG  <br>
-3.3 antiSMASH <br> 
-3.4 Creando tu script  de bash <br>    
-3.5 Paquete de análisis: RAST  <br>  
-</td>
-    <td> <b> <a href="paginas/sesion4/redes.md">Sesión 4</a> Redes de información y estructura de proteinas </b> <br>  
- 4.1 PriA ¿por qué se necesitan redes? <br>  
- 4.1 Operones y STRING   <br>  
- 4.2 Roseta,y evcouplings para la reconstrucción 3D   <br>  
- 4.3 Scripts en bash  <br>
-</td>
-</tr>  
-<tr>
-<td>
-  <b> Sesión 5 Análisis de secuencias y <a href="paginas/git/sesion3.md"> GIT</a> o <a href="paginas/drive/sitios.md">drive </a> </b> <br>  
-5.1 Alineamiento   <br>  
-5.2 Contenido de GC   <br>  
-5.3 El respaldo y documentación de scripts <br>
-5.3.1 La importancia de documentar y respaldar el trabajo informático <br>
-5.3.2 Git Guardar los scripts en internet <br>
-5.3.3 MD Crear documentación organizada <br>
-5.3.4 Wiki git Documentar extensivamente scripts <br>
-</td> 
-<td>
-  <b> <a href="paginas/sesion6/arboles.md">Sesión 6 </a>Árboles y metadatos </b> <br>  
-4.1 Crear un árbol a partir de un alineamiento <br>        
-4.2 Metadatos en proyectos genómicos <br>  
-4.3 MicroReact y la visualización de metadatos. <br>  
-</td>
-</tr>
-<tr> 
-<td>
-<b>Sesión 7 </b>
-Dudas sobre el <a href="paginas/proyectos/proyectos.md">proyecto final  </a><br>  
-</td> 
-<td><b>Sesión 8</b>
-  Exposición de proyectos  
-</td>
 </tr>
 </table>    
      
