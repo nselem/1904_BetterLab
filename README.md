@@ -21,9 +21,9 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
     <tr>
           <td>Sesión 2 (11:00-14:00) Extracción de DNA</td>
           <td>Sesión 4 (11:20-14:00) Termociclado y electroforesis </td></tr>  
-    <tr><td></td><td>Sábado 4</td><td>Domingo 5 </td></tr>
+    <tr><td>Sábado 4</td><td>Domingo 5 </td></tr>
     <tr>
-          <td> Sesión 5 (10:00-11:45)Genómica y Bioinformática          </td>
+          <td> Sesión 5 (10:00-11:45) Genómica y Bioinformática          </td>
       <td>Sesión 7 (10:00-11:45) <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
     </tr>
     <tr><td>Coffee Break</td><td>Coffee Break</td>    </tr>
