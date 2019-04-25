@@ -55,8 +55,7 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
       <td><b> Sesión 4 </b> <br>
       Amplificando la región mitocondrial <br>
       </td>
-</tr>
-<td>      
+</tr>      
 <td><b>Sesión 5</b><br> 
     5.1 Visualización de fragmentos <br> 
     5.2  Recepción de los datos de secuenciación <br> 
