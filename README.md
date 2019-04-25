@@ -18,8 +18,7 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
       <td>  Introducción teórica a la Biología Molecular.   </td>  
       <td>  Introducción teórico-práctica a la reacción de PCR</td>
   </tr>
-      <tr><td></td><td>Coffee Break</td><td>Coffee Break</td>
-    
+      <tr><td></td><td>Coffee Break</td><td>Coffee Break</td>    
     <tr><td></td>
       <td>
         Sesión 5 (9:10 -12:10) Análisis de secuencias <a href="paginas/git/sesion3.md">Git </a> y <a href="https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf">Markdown</a>  </td></tr>  
@@ -42,14 +41,6 @@ En este curso aprenderás un poco de biología tanto experimental como computaci
 <tr>
 </tr>
 </table>    
-     
-___         
-## Entregables    
-El objetivo del curso será que los alumnos tengan un panorama general de la Biología computacional, y que la vivan a través del desarrollo de sus primeros programas.   
-1) Github con un script   25%  
-2) Bacteria identificada   5%  
-3) Exposición de Proyecto 70%  
-  
 ___  
   
 ## Instalaciones y requerimientos previos  
@@ -60,7 +51,7 @@ ___
   </p>
 <p>
   Aqui hay una referencia de posibles problemas durante la instalación.  
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Wiki de problemas de instalación y sus soluciones. </a>.
+  <a href = "https://github.com/carpentries/workshop-template/wiki/Configuration-Problems-and-Solutions">Wiki de problemas de instalación y sus soluciones. </a>.
 </p>
 
 <div id="shell">  
