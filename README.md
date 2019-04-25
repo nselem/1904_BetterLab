@@ -4,9 +4,13 @@
       
     
 ## Informacion General  
-Bienvenido a aprender sobre tu información genética. Esta será la página web del taller, donde encontrarás el temario y los protocolos del curso. Además trabajaremos en un [documento colaborativo](https://etherpad.net/p/190419_BetterLab) donde podemos anotar dudas de los participantes y compartir información todos al mismo tiempo. Los documentos colaborativos ayudan a llevar un registro del trabajo comunitario  y te permiten ser una herrammienta de consulta en el futuro. 
+Bienvenido a aprender sobre tu información genética. En este taller adquirirás nociones de biología tanto experimental como computacional. Te presentamos tres herramientas de trabajo, este sitio web, un documento colaborativo así como el resúmen del curso.  
 
-En este adquirirás nociones de biología tanto experimental como computacional. En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Resumen.pdf) puedes encontrar los protocolos y la información que utilizaremos taller. 
+Esta será la página web del taller, donde encontrarás el temario y los protocolos del curso. Iremos agregando información sobre las sesiones de trabajo.  
+
+Además utilizaremos un [documento colaborativo](https://etherpad.net/p/190419_BetterLab) donde podemos anotar dudas de los participantes y compartir información todos al mismo tiempo. Los documentos colaborativos ayudan a llevar un registro del trabajo comunitario y te permiten tener una herrammienta de consulta en el futuro. 
+
+En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Resumen.pdf) puedes encontrar los protocolos y la información que utilizaremos taller. 
   
 ## Calendario   
   
