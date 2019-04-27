@@ -1,5 +1,6 @@
 
-## Visualización por electroforesis (tomado de Electroforesis de ADN por  Francisco Fierro Fierro)   
+## Visualización por electroforesis  
+tomado de Electroforesis de ADN por  Francisco Fierro Fierro  
 
 Equipo a usar:  
  - Cámara horizontal de electroforesis con los accesorios correspondientes (molde para hacer el gel, peine, cables para conectar a la fuente de alimentación)  
