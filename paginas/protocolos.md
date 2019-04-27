@@ -45,7 +45,7 @@ Equipo a usar: Nanodrop.
 
 6. Registren la concentración de cada muestra.  
 
-Visualización por electroforesis (tomado de Electroforesis de ADN por  Francisco Fierro Fierro)  
+## Visualización por electroforesis (tomado de Electroforesis de ADN por  Francisco Fierro Fierro)   
 
 Equipo a usar:  
  - Cámara horizontal de electroforesis con los accesorios correspondientes (molde para hacer el gel, peine, cables para conectar a la fuente de alimentación)  
@@ -65,7 +65,7 @@ El bromuro de etidio (BrEt) es un agente intercalante (se intercala entre las ba
 
 Pasos de la electroforesis:  
 
-1.- Preparación del gel de agarosa   
+### 1.- Preparación del gel de agarosa   
 
 1.1. Pesar la cantidad de agarosa necesaria para obtener la concentración deseada (en nuestro caso es 1 g para 100 ml quedando a una concentración del 1%) en función del volumen de gel.   
 
@@ -79,14 +79,14 @@ Pasos de la electroforesis:
 
 1.6. Verter cuidadosamente la solución de agarosa sobre el molde nivelado y dejar que solidifique durante al menos 30 min.   
 
-2. Preparación de las muestras   
+### 2. Preparación de las muestras   
 
 2.1. Mezclar tanto las muestras de ADN como el marcador de tamaño con 0.2 volúmenes del buffer de carga 6x. El volumen total estará determinado por el tamaño de los pocillos, habitualmente 15-30 µl.   
 
 ![Figura4](Figura4.png)   
 Figura 4: Esquema de una electroforesis: En la imagen se muestra la dispoción de gel de agarosa horizontal y los pozos donde se cargan las muestras a visualizar.  
 
-3. Carga de las muestras y corrida del gel  
+### 3. Carga de las muestras y corrida del gel  
 
 3.1. Una vez que el gel ha solidificado retirar el sellado de los bordes y colocar el molde con el gel en la cámara de electroforesis (como se muestra en la figura 4).   
 
@@ -100,7 +100,7 @@ Figura 4: Esquema de una electroforesis: En la imagen se muestra la dispoción d
 
 3.6. Correr el gel hasta que el colorante azul de bromofenol esté a una distancia del borde de aproximadamente un 25% de la longitud total del gel. En ese momento debe detenerse la electroforesis.  
 
-4. Tinción del gel y visualización del ADN  
+### 4. Tinción del gel y visualización del ADN  
 
  4.1. Si no se añadió el BrEt al gel, éste debe teñirse una vez finalizada la electroforesis.   
 
