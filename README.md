@@ -30,7 +30,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
     <tr>
           <td> Sesión 5 (10:00-11:45) Introducción a la genómica y bioinformática
           </td>
-      <td>Sesión 7 (10:00-11:45) <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
+      <td>Sesión 7 (10:00-11:45)  Arboles y metadatos </td>
     </tr>
     <tr><td>Coffee Break</td><td>Coffee Break</td>    </tr>
     <tr>
