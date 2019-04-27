@@ -65,13 +65,15 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
       </td>
 </tr>      
 <td><b>Sesión 5</b><br> 
+    5 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/BasesDatos.md">Datos Genómicos</a><br>
     5.1 Visualización de fragmentos <br> 
     5.2  Recepción de los datos de secuenciación <br> 
       </td>
 <td><b>Sesión 6</b><br> 
-      6 <a href="# Arbole">Árboles y metadatos</a><br>
-    6.1  Alineamientos y  filogenias <br> 
-    6.2  Interpretación de la secuenciación <br> 
+      6 Árboles y metadatos <br>
+      6.1  <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Algoritmos.md">Algoritmos en Biologia e.g. alineamientos. </a><br>  
+    6.2  <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Arboles.md"> Filogenias y visualizaciones </a> <br> 
+    6.3  Interpretación de la secuenciación <br> 
       </td>
 <tr>
 <td><b>Sesión 7</b><br> 
