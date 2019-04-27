@@ -51,7 +51,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
       </td>
      <td><b> Sesión 2 </b> <br>
      2 Extracción y visualización del DNA  <br>             
-     2.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/protocolos.md">Extracción de DNA y  conservación</a> <br>
+     2.1 <a href=https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/protocoloExtraccion.md">Extracción de DNA y  conservación</a> <br>
      2.2 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/ProtocoloVisualizacion.md">Visualización del ADN genómico </a><br>
            </td></tr>
       <tr>
