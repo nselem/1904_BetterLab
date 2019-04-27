@@ -19,16 +19,17 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
              <td>Sábado 27       </td> <td>           Domingo 28                 </td>
   </tr>  
       <tr>
-      <td> Sesión 1 (10:00-10:50) Introducción teórica a la Biología Molecular.   </td>  
-      <td>  Sesión 3 (10:00-11:00) Introducción teórico-práctica a la reacción de PCR</td>
+      <td> Sesión 1 (10:00-10:50) Introducción a la genética y biología molecular.   </td>  
+      <td>  Sesión 3 (10:00-11:00) Reacción en cadena de la polimerasa (PCR). </td>
   </tr>
       <tr><td>Coffee Break</td><td>Coffee Break</td>    </tr>
     <tr>
-          <td>Sesión 2 (11:00-14:00) Extracción de DNA</td>
-          <td>Sesión 4 (11:20-14:00) Termociclado y electroforesis </td></tr>  
+          <td>Sesión 2 (11:00-14:00) Extracción y visualización de ADN. </td>
+          <td>Sesión 4 (11:20-14:00) Introducción a secuenciación de ADN. </td></tr>  
     <tr><td>Sábado 4</td><td>Domingo 5 </td></tr>
     <tr>
-          <td> Sesión 5 (10:00-11:45) Genómica y Bioinformática          </td>
+          <td> Sesión 5 (10:00-11:45) Introducción a la genómica y bioinformática
+          </td>
       <td>Sesión 7 (10:00-11:45) <a href="paginas/genomica/genomica.md"> Arboles y metadatos</a></td>
     </tr>
     <tr><td>Coffee Break</td><td>Coffee Break</td>    </tr>
