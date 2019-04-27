@@ -50,8 +50,9 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
       1.3 Legislación de la genética humana.<br>
       </td>
      <td><b> Sesión 2 </b> <br>
-     2.1 Extracción de DNA y  conservación <br>
-     2.2 Visualización del ADN genómico Tarde libre<br>
+     2 Extracción y visualización del DNA  <br>             
+     2.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/protocolos.md">Extracción de DNA y  conservación</a> <br>
+     2.2 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/ProtocoloVisualizacion.md">Visualización del ADN genómico </a><br>
            </td></tr>
       <tr>
      <td><b> Sesión 3 </b> <br>
