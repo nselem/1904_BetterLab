@@ -35,7 +35,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
     <tr><td>Coffee Break</td><td>Coffee Break</td>    </tr>
     <tr>
           <td> Sesión 6 (12:00-14:00 am) Introducción y <a href="https://swcarpentry.github.io/shell-novice-es/"> bash </a> 
-        </td>    <td>Sesión 8 (12:00-14:00 pm) Proyectos y exposición </td>
+        </td>    <td>Sesión 8 (12:00-14:00 pm) Genómica mitocondrial </td>
     </tr>
 </table>  
 
@@ -82,7 +82,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
       </td>
 <td><b>Sesión 8</b><br> 
       8.1 Software de antropología genómica. <br> 
-      8.2 Marcadores biomédicos y genética forense<br> 
+       <br> 
       </td>
       </tr>
 </table>    
