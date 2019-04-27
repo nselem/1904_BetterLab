@@ -4,7 +4,7 @@
 
 Para la extracción del ADN de fluido corporal se usará el protocolo del Quick-DNA Miniprep Plus Kit, el diagrama de esta metodología se presenta en la Figura 3. Como se puede apreciar con este protocolo se puede obtener ADN tanto de fluidos biológicos incluyendo sangre, semen, saliva y otros, así como de tejidos sólidos. 
 
-![Figura3](Figura3_esp.png)    
+![Figura3](Figura3_2.png)    
 Figura 3.  Diagrama de flujo del protocolo de extracción de ADN del kit producido por la empresa Zymo Research.  
   
 Pasos a seguir para la extracción:  
