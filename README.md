@@ -43,11 +43,11 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
 <table> 
 <tr>
       <td><b> Sesión 1 </b> <br>
-      1.1 Introducción a la Biología Molecular. <br>
-      1.2 Fundamentos del uso del ADN mitocondrial 
+      1 [Introducción a la Biología Molecular.](https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/GenomaMitocondrial.md) <br>
+      1.1 Fundamentos del uso del ADN mitocondrial 
       para identificación humana y ancestría.<br>
-      1.3 Conociendo el genoma mitocondrial.<br>
-      1.4 Legislación de la genética humana.<br>
+      1.2 Conociendo el genoma mitocondrial.<br>
+      1.3 Legislación de la genética humana.<br>
       </td>
      <td><b> Sesión 2 </b> <br>
      2.1 Extracción de DNA y  conservación <br>
