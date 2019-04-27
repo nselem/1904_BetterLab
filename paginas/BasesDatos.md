@@ -32,3 +32,5 @@ Busca HisA en ambas bases ¿Qué obtienes?
 Toma la secuencia de HisA y analízala en pFAM, qué obtienes? 
 
 ¿Cómo son tus organismos en RAST?  
+HaploGrupo  
+https://haplogrep.uibk.ac.at/?fbclid=IwAR3u9XPlrqtyT2KMlHlnUb4UUU7KO12ddo7DTy4f69ERy213e8eN3wUXz_k
