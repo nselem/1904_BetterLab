@@ -1,16 +1,18 @@
 # Descubriendo tu información genética  
 ![BetterLab Logo](images/BetterLab.png)   
-
       
     
 ## Informacion General  
-Bienvenido a aprender sobre tu información genética. En este taller adquirirás nociones de biología tanto experimental como computacional. Te presentamos tres herramientas de trabajo, este sitio web, un documento colaborativo así como el resúmen del curso.  
+Bienvenido al taller [BetterLab](https://github.com/BetterLabMx/BetterLabMx.github.io) sobre descubrir tu información genética. En este taller adquirirás nociones de biología tanto experimental como computacional. Te presentamos tres herramientas de trabajo, este sitio web, un documento colaborativo así como el resúmen del curso.  
 
 Esta será la página web del taller, donde encontrarás el temario y los protocolos del curso. Iremos agregando información sobre las sesiones de trabajo.  
 
 Además utilizaremos un [documento colaborativo](https://etherpad.net/p/190419_BetterLab) donde podemos anotar dudas de los participantes y compartir información todos al mismo tiempo. Los documentos colaborativos ayudan a llevar un registro del trabajo comunitario y te permiten tener una herrammienta de consulta en el futuro. 
 
 En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Resumen.pdf) puedes encontrar los protocolos y la información que utilizaremos taller. 
+
+## BetterLab  
+En [BetterLab](https://github.com/BetterLabMx/BetterLabMx.github.io) nos dedicamos a mejorar la experiencia cotidiana del laboratorio. Fabricamos equipos en impresión 3D y corte lasser, desarrollamos software para procesos cotidianos del laboratorio, análisis de datos genómicos y transcriptómicos, asi como cursos biotecnológicos al alcance de todos. Nuestros talleres abarcan desde aprendizaje de Linux, python, r con aplicaciones a manejo de datos, hasta experiencias experimentales como este taller de secuenciar tu propia información mitocondrial.    
   
 ## Calendario   
   
