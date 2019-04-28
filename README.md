@@ -67,7 +67,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
 </tr>      
 <td><b>Sesión 5</b><br> 
     5 Datos Genómicos y Bioinformática <br>
-    5.1 Visualización de fragmentos <br> 
+    5.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Secuenciacion.md">Visualización de fragmentos</a> <br> 
     5.2  Recepción de los datos de secuenciación <br> 
       5.3 <a href="https://swcarpentry.github.io/shell-novice-es/">La terminal de linux </a>
       </td>
