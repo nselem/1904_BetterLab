@@ -1,5 +1,7 @@
 ## Reacción en cadena de la polimerasa (PCR)   
-  
+
+Vamos a ver este [video](https://www.youtube.com/watch?v=TalHTjA5gKU) de divulgación de la PCR  
+
 Se realiza en termociclador, en un volumen de 25 µl por ensayo, con las siguientes condiciones:  
 18 µl de H2O grado PCR   
 2.5 µl de 10x PCR buffer mix   
