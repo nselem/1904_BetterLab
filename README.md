@@ -57,7 +57,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
            </td></tr>
       <tr>
      <td><b> Sesión 3 </b> <br>
-      3.1 Realizando PCR<br>
+      3.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/ProtocoloPCR.md"> Realizando PCR</a><br>
       3.2 Preparando Mix PCR<br> 
            </td>
       <td><b> Sesión 4 </b> <br>
