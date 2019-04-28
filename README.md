@@ -12,7 +12,7 @@ Además utilizaremos un [documento colaborativo](https://etherpad.net/p/190419_B
 En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Resumen.pdf) puedes encontrar los protocolos y la información que utilizaremos taller. 
 
 ## BetterLab  
-En [BetterLab](https://github.com/BetterLabMx/BetterLabMx.github.io) nos dedicamos a mejorar la experiencia cotidiana del laboratorio. Fabricamos equipos en impresión 3D y corte lasser, desarrollamos software para procesos cotidianos del laboratorio, análisis de datos genómicos y transcriptómicos, asi como cursos biotecnológicos al alcance de todos. Nuestros talleres abarcan desde aprendizaje de Linux, python, r con aplicaciones a manejo de datos, hasta experiencias experimentales como este taller de secuenciar tu propia información mitocondrial.    
+En [BetterLab](https://github.com/BetterLabMx/BetterLabMx.github.io) nos dedicamos a mejorar la experiencia cotidiana del laboratorio. Fabricamos equipos como incubadoras, rotadores y cámaras de elctroforesis en impresión 3D y corte laser. Desarrollamos software para procesos cotidianos del laboratorio y realizamos análisis de datos genómicos y transcriptómicos. Finalmente impartimos talleres biotecnológicos al alcance de todos. Nuestros talleres abarcan desde aprendizaje de Linux, python, r con aplicaciones a manejo de datos, hasta experiencias experimentales como este taller de secuenciar y analizar tu propia información mitocondrial.    
   
 ## Calendario   
   
