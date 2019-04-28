@@ -77,7 +77,7 @@ En [BetterLab](https://github.com/BetterLabMx/BetterLabMx.github.io) nos dedicam
       6 Interpretación de la secuenciación  <br>
       6.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/BasesDatos.md">Bases de datos biológicas </a><br>
       6.2  <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Algoritmos.md"> Algoritmos en Biologia e.g. alineamientos. </a><br>  
-    6.3 <a="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Arboles.md"> Filogenias, metadatos y visualizaciones </a> <br> 
+    6.3 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/Arboles.md"> Filogenias, metadatos y visualizaciones </a> <br> 
    <br> 
       </td>
 <tr>
