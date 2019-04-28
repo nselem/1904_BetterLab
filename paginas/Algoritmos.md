@@ -12,7 +12,7 @@ Ensambla tu genoma y encuentra a quién pertenece. ¿Qué profundidad tiene? ¿D
 La distancia mas simple entre dos secuencias es un 0 si tienen la misma base o un 1 si no la tienen. Mira el siguiente ejemplo 
 ![dis1](https://github.com/nselem/cbhonduras/blob/master/imagenes/distanciaH1.png)  
 ¿Qué pasa aquí?  
-![dis2](dist2.png)  
+![dis2](https://github.com/nselem/cbhonduras/blob/master/imagenes/dist2.png)  
 
 Cuál es la distancia de Hamming entre la secuencia 1 y las demás secuencias?? 
 
