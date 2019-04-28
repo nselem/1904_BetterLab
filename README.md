@@ -69,7 +69,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
     5 Datos Genómicos y Bioinformática <br>
     5.1 Visualización de fragmentos <br> 
     5.2  Recepción de los datos de secuenciación <br> 
-    5.3 [La terminal de linux](https://swcarpentry.github.io/shell-novice-es/)   
+      5.3 <a href="https://swcarpentry.github.io/shell-novice-es/">La terminal de linux]</a>
       </td>
 <td><b>Sesión 6</b><br> 
       6 Árboles y metadatos <br>
