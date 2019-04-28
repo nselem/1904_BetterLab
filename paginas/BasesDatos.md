@@ -10,7 +10,7 @@ Las bases de datos pueden ser públicas o privadas, acumulan información de los
 ### [NCBI](https://www.ncbi.nlm.nih.gov/)  
 NCBI es una de las grandes bases de datos biológicas. Hay inormacion de genes, genomas proteinas, etc de muchos organismos.  
 
-![Streptomyces](strepto.png)  
+![Streptomyces](https://github.com/nselem/cbhonduras/blob/master/paginas/sesion3/strepto.png)  
 Descarga el genoma de Streptomyces coelicolor y del organismo que te tocó en el ensamblado de genomas. 
 Anota su taxonomía en el documento colaborativo.  
 
@@ -21,7 +21,7 @@ Anota en RAST Streptomyces coelicolor y tu organismo ensamblado
 Compáralos  
 
 ### [MIBiG](https://mibig.secondarymetabolites.org)    
-![antibioticos](antibioticos.png)  
+![antibioticos](https://github.com/nselem/cbhonduras/blob/master/paginas/sesion3/antibioticos.png)  
 Obten la secuencia de un gen que pertenezca a un cluster de antibióticos y anótala en el documento colaborativo  
 
 ### [antiSMASH](https://antismash.secondarymetabolites.org/#!/start)
