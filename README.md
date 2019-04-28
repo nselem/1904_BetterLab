@@ -58,7 +58,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
       <tr>
      <td><b> Sesión 3 </b> <br>
       3.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/ProtocoloPCR.md"> Realizando PCR</a><br>
-      3.2 Preparando Mix PCR<br> 
+      3.2 Preparando Mix PCR<br>  
            </td>
       <td><b> Sesión 4 </b> <br>
       4.1 Amplificando la región mitocondrial <br>
@@ -73,7 +73,7 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
       </td>
 <td><b>Sesión 6</b><br> 
       6 Árboles y metadatos <br>
-      6.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/BasesDatos.md">Bases de datos biológicas </a>
+      6.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/BasesDatos.md">Bases de datos biológicas </a><br>
       6.2  Algoritmos en Biologia e.g. alineamientos. <br>  
     6.3  Filogenias y visualizaciones </a> <br> 
     6.4  Interpretación de la secuenciación <br> 
