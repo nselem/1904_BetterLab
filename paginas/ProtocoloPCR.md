@@ -1,6 +1,8 @@
 ## Reacción en cadena de la polimerasa (PCR)   
-
-Vamos a ver este [video](https://www.youtube.com/watch?v=TalHTjA5gKU) de divulgación de la PCR  
+  
+La PCR es una reacción para amplificar regiones de DNA. Esta tecnología inventada en 1983, es tan revolucionaria que le mereció el premio nobel a Kari Mullis. Gracias a ella, a partir de un poco DNA pueden obtenerse muchas copias, y tras esta amplificación resulta más fácil identificar especies de virus, bacterias, restos fósiles o cadáveres en el caso de los especialistas forenses.  
+  
+Vamos a ver este [video](https://www.youtube.com/watch?v=TalHTjA5gKU) de divulgación de la PCR   
 
 Se realiza en termociclador, en un volumen de 25 µl por ensayo, con las siguientes condiciones:  
 18 µl de H2O grado PCR   
