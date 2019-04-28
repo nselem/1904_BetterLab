@@ -73,9 +73,10 @@ En este [resumen]( https://github.com/BetterLabMx/1904_BetterLab/blob/master/pag
       </td>
 <td><b>Sesión 6</b><br> 
       6 Árboles y metadatos <br>
-      6.1  Algoritmos en Biologia e.g. alineamientos. <br>  
-    6.2  Filogenias y visualizaciones </a> <br> 
-    6.3  Interpretación de la secuenciación <br> 
+      6.1 <a href="https://github.com/BetterLabMx/1904_BetterLab/blob/master/paginas/BasesDatos.md">Bases de datos biológicas </a>
+      6.2  Algoritmos en Biologia e.g. alineamientos. <br>  
+    6.3  Filogenias y visualizaciones </a> <br> 
+    6.4  Interpretación de la secuenciación <br> 
       </td>
 <tr>
 <td><b>Sesión 7</b><br> 
