@@ -6,6 +6,8 @@ Las muestras se secuencian en el Laboratorio de Servicios Genómicos del Laborat
 
 La calidad de las secuencias, la extracción de las mismas y los electroferogramas se analizan con la ayuda del software Finch TV (versión 1.4.0) (Geospiza Inc. 2006).   
 
+Aunque Finch TV ya está instalado en las máquinas que vas a ocupar, si quieres usarlo en casa puedes [descargar FinchTV](https://slackware.pkgs.org/14.1/slackonly-x86_64/finchtv-1.3.1-i386-1_slack.txz.html) en tu propia computadora.  
+
 
 ## Identificación de haplogrupos mitocondriales   
 
